@@ -1,12 +1,6 @@
 # GoIP SMS Gateway Interface API (Client & Server)
 
-This library is using the GoIP SMS Interface C#
-
-I only have a GoIP1 device, no system testing with GoIP4 and larger devices.
-
-## Status
-
-This project is in very early preview stage and it's not suggested to use it in a real project.
+Паш, это какое-то говно
 
 ## Documentation
 
